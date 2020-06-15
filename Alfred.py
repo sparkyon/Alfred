@@ -810,4 +810,4 @@ class MyClient(discord.Client):
   
             
 client = MyClient()
-client.run("NzEzNzE1Mjc4NDY2MjUyODQx.XskJig.hcCJlgwLIfwox5nEAfPecS7sQxY")
+client.run("Your Token")
