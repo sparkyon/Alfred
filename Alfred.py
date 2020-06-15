@@ -794,7 +794,7 @@ class MyClient(discord.Client):
         python = discord.utils.get(user.guild.roles, name="Python")
         Normie = discord.utils.get(user.guild.roles, name="Normie")
         Java = discord.utils.get(user.guild.roles, name="Java")
-        C = discord.utils.get(user.guild.roles, name="Server Profi")
+        C = discord.utils.get(user.guild.roles, name="C#")
         if str(reaction.emoji) == "🐍":
             await user.add_roles(python)
         if str(reaction.emoji) == "✅":
