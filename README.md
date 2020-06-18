@@ -1,2 +1,2 @@
 # Alfred
-Alfred is an German Python Discord Bot for several tasks
+Alfred ist ein Python Discord Bot für verschiedene Anwendungen
